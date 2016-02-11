@@ -2,14 +2,13 @@
 
 ###The first three months of a child's life are a time of wonder. Major developmental milestones at this age are centered on exploring the basic senses and learning more about the body and the environment. During this period, most infants begin to:
 
-     * See objects more clearly within a distance of 13 inches
+     *See objects more clearly within a distance of 13 inches
      * Focus on moving objects, including the faces of caregivers
      * Tell between sweet, salty, bitter and sour tastes
      * Detect differences in pitch and volume
      * See all colors in the human visual spectrum
      * Respond to their environment with facial expressions
-
-    Demonstrate anticipatory behaviors like rooting and sucking at the site of a nipple or bottle
+     * Demonstrate anticipatory behaviors like rooting and sucking at the site of a nipple or bottle
 
 #From 3 to 6 Months
 ###In early infancy, perceptual abilities are still developing. From the age of three to six months, infants begin to develop a stronger sense of perception. At this age, most babies begin to:
